@@ -1,4 +1,4 @@
-### Olá me chamo Karllos estou aprendendo a programar em C 👋
+### Printf ("Hello, Wolrd!");
 
 <!--
 **karlloscosta/karlloscosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
